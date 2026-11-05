@@ -5,8 +5,8 @@
 ---
 
 ### 🎯 Primary Interests
-- **AI & Robotics:** Deep Learning (DL) & Reinforcement Learning (RL) applied to Robotics and AI Agents.
-- **Security:** Network Security & AI Security (Adversarial ML, Robustness).
+- **AI & Robotics:** Deep Learning (DL) & Reinforcement Learning (RL) applications.
+- **Security:** Network Security, Security Engineering & AI Security.
 - **Systems:** Complex Distributed Environments & Systems (from IoT to Large-Scale Enterprise Architectures).
 
 ---
